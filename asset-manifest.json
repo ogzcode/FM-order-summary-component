@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/FM-order-summary-component/static/css/main.ed7cf7d5.css",
+    "main.js": "/FM-order-summary-component/static/js/main.54e33bad.js",
+    "static/js/787.ccd940c6.chunk.js": "/FM-order-summary-component/static/js/787.ccd940c6.chunk.js",
+    "static/media/hero.svg": "/FM-order-summary-component/static/media/hero.7303258392501e7adc159201ab028e44.svg",
+    "index.html": "/FM-order-summary-component/index.html",
+    "static/media/icon-music.svg": "/FM-order-summary-component/static/media/icon-music.f20c7787426b3847880ef13817068c16.svg",
+    "static/media/background.svg": "/FM-order-summary-component/static/media/background.5a0ab6898fc956557d0047f46ed7df62.svg",
+    "main.ed7cf7d5.css.map": "/FM-order-summary-component/static/css/main.ed7cf7d5.css.map",
+    "main.54e33bad.js.map": "/FM-order-summary-component/static/js/main.54e33bad.js.map",
+    "787.ccd940c6.chunk.js.map": "/FM-order-summary-component/static/js/787.ccd940c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed7cf7d5.css",
+    "static/js/main.54e33bad.js"
+  ]
+}
